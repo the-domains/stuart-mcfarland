@@ -1,0 +1,28 @@
+name: stuart.mcfarland
+favicon: null
+layout_spectrum: 0.8290771020110697
+typography_spectrum: 0.7329002940095961
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.41963171516545117
+  lightness: 0.8603033588733524
+  saturation: 0.2058073419611901
+  rhythmicContrast: 0.7371766350697726
+purpose: []
