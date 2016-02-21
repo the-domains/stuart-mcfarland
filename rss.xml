@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[stuart.mcfarland]]></title>
         <description><![CDATA[stuart.mcfarland]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/stuart-mcfarland/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Feb 2016 06:22:06 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 21 Feb 2016 09:01:22 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/stuart-mcfarland/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9fb7adbd-a728-488c-b495-185f57f57539.jpg">]]></description>
+            <link>https://thegrid.ai/stuart-mcfarland/242f13ac-7954-4e51-a627-b9e947121d20/index.html</link>
+            <guid isPermaLink="false">242f13ac-7954-4e51-a627-b9e947121d20</guid>
+            <pubDate>Sun, 21 Feb 2016 09:00:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/657aa961-b380-4d94-9d94-6aa7995ba622.JPG">]]></description>
-            <link>undefined404a1684-cb7b-45f7-b9ad-d7fc57adaeb0/index.html</link>
+            <link>https://thegrid.ai/stuart-mcfarland/404a1684-cb7b-45f7-b9ad-d7fc57adaeb0/index.html</link>
             <guid isPermaLink="false">404a1684-cb7b-45f7-b9ad-d7fc57adaeb0</guid>
             <pubDate>Sun, 21 Feb 2016 06:21:32 GMT</pubDate>
         </item>
